@@ -1,0 +1,5 @@
+package hin
+
+func main() {
+
+}
